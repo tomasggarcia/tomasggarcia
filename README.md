@@ -36,8 +36,9 @@
 
 - 🎓 &nbsp; Studying Information Systems Engineering (UTN FRBA).
 
+---
 
-### Some of my Projects:
+## Some of my Projects:
 ---
 ### Games Web Page
 Link : https://github.com/tomasggarcia/Games-Web-Page
