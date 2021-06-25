@@ -2,9 +2,9 @@
 
 ## I'm Tomás.
 
-# I'm a Full Stack Developer from Argentina :argentina:
+### I'm a Full Stack Developer from Argentina :argentina:
 
-# I'm currently working on web develpment with PERN stack.
+### I'm currently working on web develpment with PERN stack.
 
 ### 🛠 &nbsp;Tech Stack
 
