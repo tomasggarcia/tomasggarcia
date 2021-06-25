@@ -40,12 +40,12 @@
 ### Some of my Projects:
 ---
 ### Games Web Page
-# Link : https://github.com/tomasggarcia/Games-Web-Page
+Link : https://github.com/tomasggarcia/Games-Web-Page
 
 ---
 ### Tiendapp (MarketPlace)
-# Link front-end: https://github.com/Henry-Cohorte-12-Grupo-1/Client-TiendaPP
-# Link back-end: https://github.com/Henry-Cohorte-12-Grupo-1/Api-TiendaPP
+Link front-end: https://github.com/Henry-Cohorte-12-Grupo-1/Client-TiendaPP
+Link back-end: https://github.com/Henry-Cohorte-12-Grupo-1/Api-TiendaPP
 
 
 
