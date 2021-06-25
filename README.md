@@ -2,6 +2,9 @@
 
 ## I'm Tomás.
 
+## I'm a Full Stack Developer from Argentina :argentina:
+
+## I'm currently working on web develpment with PERN stack.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -23,9 +26,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
-- :mailbox: Contact:
-
- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-ggarcia/)
+ :mailbox: Contact:
+- Email: tomasqgarcia@gmail.com
+- Linkedin : www.linkedin.com/in/tomas-ggarcia/
 
 ---
 
