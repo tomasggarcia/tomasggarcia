@@ -39,7 +39,7 @@
 ---
 
 ## Some of my Projects:
----
+
 ### Games Web Page
 Link : https://github.com/tomasggarcia/Games-Web-Page
 
