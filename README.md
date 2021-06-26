@@ -2,9 +2,17 @@
 
 ## I'm Tomás.
 
-### I'm a Full Stack Developer from Argentina :argentina:
+### I'm a Full Stack Developer from Argentina
 
-### I'm currently working on web develpment with PERN stack.
+
+![alt text](https://github.com/tomasggarcia/tomasggarcia/blob/main/backimage.png?raw=true)
+
+
+I am currently working with the PERN stack, but always learning new technologies.
+
+I have been passionate about technology for as long as I can remember and I love being able to create new solutions and in this sense the creation of software, in my view, has no limits.
+
+I had the opportunity to do Henry's bootcamp and I am starting a new stage as a software developer, which is very exciting for me.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,6 +41,7 @@
 ---
 
 ### 💻 &nbsp;About Me 
+
 
 - 🎓 &nbsp; Studying Information Systems Engineering (UTN FRBA).
 
