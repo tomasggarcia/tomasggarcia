@@ -14,6 +14,7 @@ I have been passionate about technology for as long as I can remember and I love
 
 I had the opportunity to do Henry's bootcamp and I am starting a new stage as a software developer, which is very exciting for me.
 
+
 ### 🛠 &nbsp;Tech Stack
 
 - 📝 &nbsp;
@@ -39,6 +40,10 @@ I had the opportunity to do Henry's bootcamp and I am starting a new stage as a 
 - Linkedin : www.linkedin.com/in/tomas-ggarcia/
 
 ---
+
+<p align="center">
+    <img align="center" alt="Tomas Garcia GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasggarcia&layout=compact" />
+</p>
 
 ### 💻 &nbsp;About Me 
 
