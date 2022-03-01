@@ -5,7 +5,11 @@
 ### I'm a Full Stack Developer from Argentina
 
 
-I have been passionate about technology for as long as I can remember and I love being able to create new solutions and in this sense the creation of software, in my view, has no limits.
+I have been passionate about technology for as long as I can remember and I love being able to create new solutions and in this sense the creation of software, from my point of view, has no limits.
+
+### Articles
+
+- Bash script to log and restart docker container cpu usage: https://dev.to/tomasggarcia/bash-script-to-log-and-restart-docker-container-cpu-usage-1j2o
 
 
 ### 🛠 &nbsp;Tech Stack
