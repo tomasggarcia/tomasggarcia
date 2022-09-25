@@ -5,8 +5,8 @@
 ## I'm a Full-Stack Developer working from Buenos Aires, Argentina.
 
 ### 🛠 &nbsp;Tech Stack
-- Frontend: React, Svelte
-- Backend: Node, Python
+- Frontend: React (Next Js), Svelte
+- Backend: Node (Express Js, Nest Js), Python (Fastapi, Django)
 - Infraestructure: AWS, Terraform
 
 ### Articles
