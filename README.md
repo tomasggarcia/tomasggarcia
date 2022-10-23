@@ -12,6 +12,7 @@
 ### Articles
 
 - Bash script to log and restart docker container cpu usage: https://dev.to/tomasggarcia/bash-script-to-log-and-restart-docker-container-cpu-usage-1j2o
+- 6 commands to start using GIT: https://medium.com/@tomasqgarcia/6-commands-to-start-using-git-820a3c59d949
 
 
 ---
