@@ -15,6 +15,10 @@
 - 6 commands to start using GIT: https://medium.com/@tomasqgarcia/6-commands-to-start-using-git-820a3c59d949
 
 
+### Videos
+
+- Worshop: Why use Docker? (¿Por qué usar Docker?) https://www.youtube.com/watch?v=y2J4XJgRdvo (Spanish)
+
 ---
  :mailbox: Contact:
 - Email: tomasqgarcia@gmail.com
